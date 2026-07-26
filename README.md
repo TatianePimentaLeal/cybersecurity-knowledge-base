@@ -5,23 +5,40 @@ Curation of a knowledge base containing cybersecurity terms, tools, and their de
 This repository is organized with the Dewey Decimal Classification system:
 
 ├── 000_Generalities_&Computer_Science/
+
 │ ├── 003_Systems/
+
 │ │ └── 003.54_Information_Theory&Cryptography/
+
 │ ├── 004_Data_Processing&Computer_Science/
+
 │ │ ├── 004.62_Network_Protocols/
+
 │ │ └── 004.678_Internet&Network_Security/
+
 │ └── 005_Computer_Programming_Programs&Data/
+
 │ ├── 005.1_Software_Engineering&AppSec/
+
 │ ├── 005.8_Data_Security&Hacking/
+
 │ └── 005.84_Malware&Reverse_Engineering/
+
 ├── 300_Social_Sciences&Law/
+
 │ ├── 343_Military_Commercial&Industrial_Law/
+
 │ │ └── 343.0999_Cyber_Law&Regulations/
+
 │ └── 355_Military_Science/
+
 │ └── 355.02_Cyber_Warfare/
+
 ├── 400_Language&Linguistics/
+
 │ └── 413_Dictionaries&_Terminologies/
-└── [INDEX.md](http://INDEX.md/)
+
+└── [INDEX.md](https://github.com/TatianePimentaLeal/cybersecurity-knowledge-base/blob/main/INDEX.md)
 
 ## General Information Organization Rules
 
@@ -37,7 +54,7 @@ This repository is organized with the Dewey Decimal Classification system:
 
 - **413 (Terminologies):**  Glossary of technical terms, payload dictionaries, acronym lists (eg. SIEM, EDR, WAF), and vulnerability taxonomy (eg. CWE, CVE).
 
-
+### 
 
 ### **2 File Naming Patterns**
 
